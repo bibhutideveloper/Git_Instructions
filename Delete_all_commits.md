@@ -5,12 +5,12 @@ Deleting the .git folder may cause problems in your git repository. If you want 
 Checkout
 
 ```git checkout --orphan latest_branch```
-<br>
+<br><br>
 
 Add all the files
 
 ```git add -A```
-<br>
+<br><br><br>
 
 Commit the changes
 

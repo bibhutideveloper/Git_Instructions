@@ -10,26 +10,26 @@ Checkout
 Add all the files
 
 ```git add -A```
-<br><br><br>
+<br><br>
 
 Commit the changes
 
 ```git commit -am "commit message"```
-<br>
+<br><br>
 
 Delete the branch
 
 ```git branch -D main```
-<br>
+<br><br>
 
 Rename the current branch to main
 
 ```git branch -m main```
-<br>
+<br><br>
 
 Finally, force update your repository
 
 ```git push -f origin main```
-<br>
+<br><br>
 
 PS: this will not keep your old commit history around
